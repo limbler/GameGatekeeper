@@ -1,1 +1,4 @@
 # GameGatekeeper
+
+This project comes from circa 2013-ish, when I wanted to learn how to write, but was held back by an addiction to Microsoft Solitaire. I wrote this little C# app to sit between myself and my Solitaire. It asks you to write 500 words (copy paste not allowed!), and once you hit that target it would open up Solitaire. It saves what you write too. I deleted any Microsoft Games shortcuts and removed it from the start menu, and set up this app on the desktop instead. Of course, I could still access solitaire through C:/Program Files, but this program was more meant as positive encouragement, as in "hey, looks like you've got some free time. Why don't you work on your writing instead?", not as in "no more Solitaire ever!!!"
+It's crap code that's hardcoded to run on an old PC, but it got the job done, so don't judge it too harshly!
